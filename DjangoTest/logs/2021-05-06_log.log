@@ -1,0 +1,27 @@
+2021-05-06 09:15:55 views.users: admin用户登录系统
+2021-05-06 09:15:55 views.users: 用户admin，登录系统成功
+2021-05-06 09:20:53 views.post: 系统用户admin操作系统，变更用户:天龙八部为“冻结”状态
+2021-05-06 09:20:56 views.post: 系统用户admin操作系统，变更用户:天龙八部为“解冻”状态
+2021-05-06 09:21:02 views.post: 系统用户'admin'操作系统，服务单位“连城诀”信息变更为：{'id': 5, 'iphone': '1212121214', 'phone': '222222223', 'unit_abb': '连', 'unit_name': '连城诀', 'use': '狄云', 'address': '湘西沅陵南郊', 'uintstate': 1, 'userxu': '2'}
+2021-05-06 09:21:11 views.post: 系统用户admin操作系统，服务单位绑定机器人['test机器人1', '发票识别', '发票查验机器人', 'sss11']
+2021-05-06 09:21:34 views.post: 系统用户admin操作系统，服务单位绑定机器人['test机器人1', 'sss11', 'robot_test1', '机器人robot']
+2021-05-06 09:21:43 views.post: 系统用户admin操作系统，用户：yaojun状态变更为“冻结”！
+2021-05-06 09:21:47 views.post: 系统用户'admin'操作系统，用户：沙坪为状态变更为“解冻”！
+2021-05-06 09:21:55 views.post: 6进入编辑
+2021-05-06 09:21:55 views.post: 系统用户'admin'操作系统，用户：chenshuang1的信息变更为{'id': 6, 'username': 'chenshuang1', 'use_unit': '雄霸天下', 'use_id': '12312312313211', 'unit_phone': '等发达发达1', 'chu_name': '范德萨范德萨1', 'use_iphone': '22221111', 'use_address': '2222221111', 'ment': '范德萨发的1'}
+2021-05-06 09:50:02 views.post: 系统用户'admin'操作系统，机器人：robot_test状态变更为冻结！
+2021-05-06 09:50:07 views.post: 系统用户'admin'操作系统，机器人：机器人sss解冻成功！
+2021-05-06 09:50:11 views.post: 系统用户'admin'操作系统，机器人：机器人robot信息修改为{'id': 15, 'robot_name': '机器人robot', 'robot_path': '/robot/robot'}
+2021-05-06 09:51:47 views.users: song用户登录系统
+2021-05-06 09:51:47 views.users: 用户song，登录系统成功
+2021-05-06 09:52:23 views.post: 系统用户'song'操作系统，用户：sunnyq，创建成功！
+2021-05-06 09:52:47 views.post: 系统用户song操作系统，用户：sunnyq状态变更为“冻结”！
+2021-05-06 09:52:50 views.post: 系统用户'song'操作系统，用户：sunnyq状态变更为“解冻”！
+2021-05-06 09:52:54 views.post: 19进入编辑
+2021-05-06 09:52:54 views.post: 系统用户'song'操作系统，用户：宋池的信息变更为{'id': 19, 'username': '宋池', 'use_unit': '英大集团1', 'use_id': '657676878', 'unit_phone': '34357', 'chu_name': '', 'use_iphone': '23245566', 'use_address': '', 'ment': 'gfgf'}
+2021-05-06 09:53:03 views.post: 用户“sunnyq”绑定机器人，机器人名称为：'发票识别', '发票查验机器人'
+2021-05-06 09:54:09 views.post: 用户“sunnyq”绑定机器人，机器人名称为：'发票识别'
+2021-05-06 09:59:44 views.post: 系统用户：'song'操作系统，用户“梭罗men”绑定机器人，机器人名称为：'发票识别', 'sss11'
+2021-05-06 10:03:00 views.users: admin用户登录系统
+2021-05-06 10:03:00 views.users: 用户admin，登录系统成功
+2021-05-06 10:06:07 views.post: 系统用户admin操作系统，变更用户:天龙八部为“冻结”状态

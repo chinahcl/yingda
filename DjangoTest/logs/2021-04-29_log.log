@@ -1,0 +1,85 @@
+2021-04-29 09:25:33 views.post: 变更用户信息，用户：qqaa状态变更为“冻结”！
+2021-04-29 09:28:30 views.post: 变更用户信息，用户：dd状态变更为“冻结”！
+2021-04-29 09:28:56 views.post: 变更用户信息，用户：yao_song状态变更为“冻结”！
+2021-04-29 09:37:41 views.post: 系统用户admin变更用户信息，用户：yangjian状态变更为“冻结”！
+2021-04-29 09:40:28 views.users: admin用户登录系统
+2021-04-29 09:40:28 views.users: 用户admin登录系统失败，用户名密码错
+2021-04-29 09:40:34 views.users: admin用户登录系统
+2021-04-29 09:40:34 views.users: 用户admin，登录系统成功
+2021-04-29 09:51:23 views.post: 14进入编辑
+2021-04-29 09:51:23 views.post: 变更用户信息，用户：qqaaqq的信息变更成功！
+2021-04-29 09:52:29 views.post: in_fo
+2021-04-29 10:02:58 views.post: in_fo
+2021-04-29 10:32:54 views.post: in_fo
+2021-04-29 10:44:05 views.post: admin变更用户,雄霸天下为冻结状态
+2021-04-29 10:44:17 views.post: admin变更用户,雪山飞狐为冻结状态
+2021-04-29 10:44:19 views.post: admin变更用户,飞狐外传为冻结状态
+2021-04-29 10:44:32 views.post: 系统用户admin变更用户信息，用户：niefeng11状态变更为“冻结”！
+2021-04-29 11:03:13 views.post: 变更用户信息，用户：尧舜禹状态变更为“解冻”！
+2021-04-29 11:03:41 views.post: admin变更用户,碧血剑为冻结状态
+2021-04-29 11:04:44 views.post: in_fo
+2021-04-29 11:06:04 views.post: in_fo
+2021-04-29 11:06:29 views.post: in_fo
+2021-04-29 11:07:21 views.post: in_fo
+2021-04-29 11:07:43 views.post: in_fo
+2021-04-29 11:09:07 views.post: in_fo
+2021-04-29 11:10:10 views.post: in_fo
+2021-04-29 11:16:04 views.post: in_fo
+2021-04-29 11:21:11 views.post: admin变更用户,白马啸西风为冻结状态
+2021-04-29 12:11:11 views.users: admin用户登录系统
+2021-04-29 12:11:11 views.users: 用户admin，登录系统成功
+2021-04-29 13:02:16 views.post: 系统用户admin操作系统，变更用户,碧血剑为冻结状态
+2021-04-29 13:03:13 views.post: 系统用户admin操作系统，变更用户,侠客行为冻结状态
+2021-04-29 13:04:04 views.post: 系统用户admin操作系统，变更用户,侠客行为冻结状态
+2021-04-29 13:04:48 views.post: 系统用户admin操作系统，变更用户,白马啸西风为冻结状态。。。。
+2021-04-29 13:04:55 views.post: 系统用户admin操作系统，变更用户,笑傲江湖为冻结状态。。。。
+2021-04-29 13:09:37 views.post: 系统用户admin操作系统，变更用户,侠客行为冻结状态。。。。
+2021-04-29 13:09:40 views.post: 系统用户admin操作系统，变更用户,神雕侠侣为冻结状态。。。。
+2021-04-29 13:09:53 views.post: 系统用户admin操作系统，变更用户,侠客行为解冻状态。。。。
+2021-04-29 13:09:55 views.post: 系统用户admin操作系统，变更用户,笑傲江湖为解冻状态。。。。
+2021-04-29 13:13:32 views.post: 系统用户admin操作系统，变更用户:连城诀为“冻结”状态
+2021-04-29 13:13:35 views.post: 系统用户admin操作系统，变更用户:神雕侠侣为“解冻”状态
+2021-04-29 13:40:45 views.post: 4进入编辑
+2021-04-29 13:40:45 views.post: 变更用户信息，用户：bujingyun_1的信息变更成功！
+2021-04-29 13:44:10 views.post: 3进入编辑
+2021-04-29 13:44:10 views.post: 系统用户：'admin'操作系统，用户：niefeng11的信息变更成功！
+2021-04-29 13:57:01 views.post: 4进入编辑
+2021-04-29 13:57:01 views.post: 系统用户：'admin'操作系统，用户：bujingyun_2的信息变更成功！
+2021-04-29 13:57:24 views.post: 4进入编辑
+2021-04-29 13:57:24 views.post: 变更用户信息，用户bujingyun_3信息修改失败！
+2021-04-29 13:57:28 views.post: 4进入编辑
+2021-04-29 13:57:28 views.post: 变更用户信息，用户bujingyun_3信息修改失败！
+2021-04-29 13:58:22 views.post: 4进入编辑
+2021-04-29 13:58:22 views.post: 系统用户：'admin'操作系统，用户：bujingyun_3的信息变更成功！
+2021-04-29 13:58:49 views.post: 4进入编辑
+2021-04-29 13:58:49 views.post: 系统用户：'admin'操作系统，用户：bujingyun_2的信息变更成功！
+2021-04-29 14:07:48 views.post: 系统用户'admin'操作系统，服务单位雪山飞狐信息变更为：
+2021-04-29 14:09:44 views.post: 系统用户'admin'操作系统，服务单位’雄霸天下‘信息变更为：
+2021-04-29 14:11:47 views.post: 系统用户'admin'操作系统，服务单位“天龙八部”信息变更为：{'id': 6, 'iphone': '1212121215', 'phone': '222222224', 'unit_abb': '天', 'unit_name': '天龙八部', 'use': '乔峰', 'address': '北宋年间', 'uintstate': 1, 'userxu': '1'}
+2021-04-29 14:18:34 views.post: 5进入编辑
+2021-04-29 14:18:34 views.post: 系统用户：'admin'操作系统，用户：test的信息变更为{'id': 5, 'username': 'test', 'use_unit': '白马啸西风', 'use_id': '1231231', 'unit_phone': '1231231', 'chu_name': '123132', 'use_iphone': '1321321', 'use_address': '1221132132', 'ment': '123123'}
+2021-04-29 14:20:03 views.post: 5进入编辑
+2021-04-29 14:20:03 views.post: 系统用户：'admin'操作系统，用户：test1的信息变更为{'id': 5, 'username': 'test1', 'use_unit': '白马啸西风', 'use_id': '1231231', 'unit_phone': '1231231', 'chu_name': '123132', 'use_iphone': '1321321', 'use_address': '1221132132', 'ment': '123123'}
+2021-04-29 14:22:31 views.post: 5进入编辑
+2021-04-29 14:22:31 views.post: 系统用户：'admin'操作系统，用户：test1的信息变更为{'id': 5, 'username': 'test', 'use_unit': '白马啸西风', 'use_id': '1231231', 'unit_phone': '1231231', 'chu_name': '123132', 'use_iphone': '1321321', 'use_address': '1221132132', 'ment': '123123'}
+2021-04-29 14:23:52 views.post: 系统用户'admin'操作系统，服务单位“雪山飞狐”信息变更为：{'id': 4, 'iphone': '1212121213', 'phone': '3242455', 'unit_abb': '雪', 'unit_name': '雪山飞狐1', 'use': '胡一刀', 'address': '关外饮马', 'uintstate': 1, 'userxu': '1'}
+2021-04-29 14:25:50 views.post: 系统用户admin变更用户信息，用户：bujingyun_2状态变更为“冻结”！
+2021-04-29 14:42:31 views.post: 变更用户信息，用户：bujingyun_2状态变更为“解冻”！
+2021-04-29 14:44:05 views.post: 系统用户“'admin'”操作系统，用户：yao_song状态变更为“解冻”！
+2021-04-29 15:00:03 views.post: 用户：王语嫣，创建成功！
+2021-04-29 15:13:16 views.post: 系统用户'admin'操作系统，用户：摩尼，创建成功！
+2021-04-29 15:13:42 views.post: 系统用户admin操作系统，用户：摩尼状态变更为“冻结”！
+2021-04-29 15:13:45 views.post: 系统用户'admin'操作系统，用户：yangjian状态变更为“解冻”！
+2021-04-29 15:13:49 views.post: 5进入编辑
+2021-04-29 15:13:49 views.post: 系统用户'admin'操作系统，用户：test的信息变更为{'id': 5, 'username': 'test', 'use_unit': '白马啸西风', 'use_id': '1231231', 'unit_phone': '1231231', 'chu_name': '123132', 'use_iphone': '1321321', 'use_address': '1221132132', 'ment': '123123'}
+2021-04-29 16:03:39 views.post: 系统用户'admin'操作系统，机器人：test机器人信息修改成功！
+2021-04-29 16:03:53 views.post: 系统用户'admin'操作系统，机器人：机器人robot增加成功，机器人路径为：/robot/robot
+2021-04-29 16:03:58 views.post: 系统用户'admin'操作系统，机器人：发票识别状态变更为冻结！
+2021-04-29 16:04:01 views.post: 系统用户'admin'操作系统，机器人：robot_test解冻成功！
+2021-04-29 16:04:03 views.post: 系统用户'admin'操作系统，机器人：robot_test1解冻成功！
+2021-04-29 16:04:30 views.post: 系统用户'admin'操作系统，机器人：sss11信息修改成功！
+2021-04-29 16:21:45 views.post: 系统用户'admin'操作系统，机器人：sss11信息修改为{'id': 6, 'robot_name': 'sss11', 'robot_path': '/robot/sss///'}
+2021-04-29 16:22:03 views.post: 系统用户'admin'操作系统，机器人：sss12信息修改为{'id': 6, 'robot_name': 'sss12', 'robot_path': '/robot/sss///'}
+2021-04-29 16:24:01 views.post: 系统用户'admin'操作系统，机器人：sss12信息修改为{'id': 6, 'robot_name': 'sss11', 'robot_path': '/robot/sss///'}
+2021-04-29 16:58:46 views.post: 系统用户'admin'操作系统，机器人：发票识别解冻成功！
+2021-04-29 17:10:04 views.post: 系统用户admin操作系统，服务单位绑定机器人['发票识别', '发票查验机器人', 'test机器人']
